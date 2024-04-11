@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+}
+.login-main-container{
+    height: 595px;
+    display: flex;
+    background-color: #E2632C;
+    padding-top: 100px;
+}
+input[type=text]{
+    width: 400px;
+height: 40px;
+top: 359.5px;
+left: 961px;
+gap: 0px;
+opacity: 0px;
+}
+ input[type=password]{
+width: 400px;
+height: 40px;
+top: 451.5px;
+left: 958px;
+gap: 0px;
+opacity: 0px;
+} 
+
+
+.login-text{
+    width: 109px;
+height: 64px;
+top: 237px;
+left: 1117px;
+gap: 0px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 35px;
+font-weight: 700;
+line-height: 41.02px;
+text-align: left;
+color: #FFFFFF;
+
+padding-left: 180px;
+
+}
+ p{
+    width: 42.63px;
+height: 13.68px;
+top: 332px;
+left: 962.14px;
+gap: 0px;
+opacity: 0px;
+padding-top: 50px;
+} 
+
+.bx{
+width: 30px;
+height: 30px;
+top: 364.5px;
+left: 968px;
+gap: 0px;
+opacity: 0px;
+}
+
+
+input[type=checkbox]{
+    width: 22px;
+height: 19px;
+top: 501.5px;
+left: 958px;
+gap: 0px;
+opacity: 0px;
+    }
+.remember-me-text{
+    width: 115.15px;
+height: 13.68px;
+top: 504px;
+left: 989.49px;
+gap: 0px;
+opacity: 0px;
+}
+.cta-container{
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+}
+.button{
+    padding-bottom: 50px;
+}
+button[type=submit]{
+    width: 150px;
+height: 50px;
+background-color:  #33A1D0;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+    }
+    .last-text{
+        padding-top: 20px;
+        font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.09px;
+text-align: left;
+
+
+    }
+    .signup-txt{
+        padding-top: 20px;
+        font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.09px;
+text-align: left;
+color: #33A1D0;
+    }
+    .input-box-user{
+        padding-bottom: 20px;
+    }
+    
